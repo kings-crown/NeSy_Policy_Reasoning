@@ -13,7 +13,7 @@ from tqdm import tqdm
 class URLS:
     urls: dict = {
         "minif2f": "https://github.com/openai/miniF2F.git",
-        "math": "https://people.eecs.berkeley.edu/~hendrycks/MATH.tar",
+        "math": "huggingface.co/datasets/EleutherAI/hendrycks_math",
     }
 
 

@@ -1,0 +1,7 @@
+{"time":"2025-02-03T16:54:51.411143302-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/home/siai/NeSy_T/wandb/run-20250203_165449-s5bua3a4/logs/debug-core.log"}
+{"time":"2025-02-03T16:54:51.51953392-05:00","level":"INFO","msg":"created new stream","id":"s5bua3a4"}
+{"time":"2025-02-03T16:54:51.519566161-05:00","level":"INFO","msg":"stream: started","id":"s5bua3a4"}
+{"time":"2025-02-03T16:54:51.519611727-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"s5bua3a4"}
+{"time":"2025-02-03T16:54:51.519662844-05:00","level":"INFO","msg":"handler: started","stream_id":"s5bua3a4"}
+{"time":"2025-02-03T16:54:51.519714732-05:00","level":"INFO","msg":"sender: started","stream_id":"s5bua3a4"}
+{"time":"2025-02-03T16:54:51.670040266-05:00","level":"INFO","msg":"Starting system monitor"}

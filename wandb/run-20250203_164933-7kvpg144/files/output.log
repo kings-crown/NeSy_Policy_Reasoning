@@ -1,0 +1,227 @@
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+3606927616
+/home/siai/.local/lib/python3.10/site-packages/bitsandbytes/autograd/_functions.py:315: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/siai/.local/lib/python3.10/site-packages/bitsandbytes/autograd/_functions.py:315: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: False
+--- Complete proof:
+
+----------Path to Isabelle source----------
+/home/siai/Isabelle2022
+----------Path to Isabelle working directory----------
+/home/siai/Isabelle2022/src/HOL/Examples
+----------Path to Isabelle theory file----------
+/home/siai/Isabelle2022/src/HOL/Examples/Interactive.thy
+
+==== Success: True
+--- Complete proof:
+theorem amc12a_2008_p8:
+  fixes x y::real
+  assumes h0: "0 < x \<and> 0 < y"
+    and h1: "y^3 = 1"
+    and h2: "6 * x^2 = 2 * (6 * y^2)"
+  shows "x^3 = 2 * sqrt 2"
+using assms
+by (smt (verit, best) mult_cancel_left2 one_power2
+      power2_eq_square power2_le_imp_le
+      power2_sum power3_eq_cube power_Suc_less
+      power_commutes power_gt1_lemma real_le_lsqrt
+      real_le_rsqrt)

@@ -1,0 +1,52 @@
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Mon Feb  3 16:43:54 2025
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.171.04             Driver Version: 535.171.04   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  NVIDIA RTX A6000               On  | 00000000:2D:00.0 Off |                  Off |
+| 35%   54C    P8              11W / 300W |  43206MiB / 49140MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+|   1  NVIDIA RTX A6000               On  | 00000000:41:00.0  On |                  Off |
+| 33%   59C    P8              36W / 300W |  48611MiB / 49140MiB |     44%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|    0   N/A  N/A      3008      G   /usr/lib/xorg/Xorg                            4MiB |
+|    0   N/A  N/A   1731641      G   /usr/lib/xorg/Xorg                            4MiB |
+|    0   N/A  N/A   1734684      G   /usr/lib/xorg/Xorg                            4MiB |
+|    0   N/A  N/A   3518334      C   /bin/python                               43176MiB |
+|    1   N/A  N/A      3008      G   /usr/lib/xorg/Xorg                          327MiB |
+|    1   N/A  N/A      3228      G   /usr/bin/gnome-shell                        108MiB |
+|    1   N/A  N/A   1731641      G   /usr/lib/xorg/Xorg                           52MiB |
+|    1   N/A  N/A   1732561      G   gnome-control-center                        101MiB |
+|    1   N/A  N/A   1734684      G   /usr/lib/xorg/Xorg                           55MiB |
+|    1   N/A  N/A   2004225      G   ...erProcess --variations-seed-version      221MiB |
+|    1   N/A  N/A   2006066      G   ...irefox/5647/usr/lib/firefox/firefox      244MiB |
+|    1   N/A  N/A   3518334      C   /bin/python                               46950MiB |
++---------------------------------------------------------------------------------------+
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Defaulting to user installation because normal site-packages is not writeable
+Collecting bitsandbytes
+  Downloading bitsandbytes-0.45.1-py3-none-manylinux_2_24_x86_64.whl (69.7 MB)
+[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m69.7/69.7 MB[0m [31m34.4 MB/s[0m eta [36m0:00:00[0m00:01[0m00:01[0m
+[?25hRequirement already satisfied: numpy>=1.17 in /usr/lib/python3/dist-packages (from bitsandbytes) (1.21.5)
+Requirement already satisfied: torch~=2.0 in /usr/lib/python3/dist-packages (from bitsandbytes) (2.2.1)
+Installing collected packages: bitsandbytes
+Successfully installed bitsandbytes-0.45.1
+Note: you may need to restart the kernel to use updated packages.
