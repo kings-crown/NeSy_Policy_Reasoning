@@ -1,5 +1,6 @@
 
-deduplicated_dataset.json
+*.jsonl
+*.json
 checkpoint_best/model-00004-of-00004.safetensors
 /checkpoint_best
 /wandb
