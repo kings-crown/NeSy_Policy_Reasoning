@@ -1,8 +1,0 @@
-{"time":"2025-02-03T13:34:31.374749012-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/home/siai/NeSy_T/wandb/run-20250203_133431-yr4ex8f7/logs/debug-core.log"}
-{"time":"2025-02-03T13:34:31.48255113-05:00","level":"INFO","msg":"created new stream","id":"yr4ex8f7"}
-{"time":"2025-02-03T13:34:31.482583731-05:00","level":"INFO","msg":"stream: started","id":"yr4ex8f7"}
-{"time":"2025-02-03T13:34:31.482653423-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"yr4ex8f7"}
-{"time":"2025-02-03T13:34:31.482669113-05:00","level":"INFO","msg":"handler: started","stream_id":"yr4ex8f7"}
-{"time":"2025-02-03T13:34:31.482669884-05:00","level":"INFO","msg":"sender: started","stream_id":"yr4ex8f7"}
-{"time":"2025-02-03T13:34:31.609954752-05:00","level":"INFO","msg":"Starting system monitor"}
-{"time":"2025-02-03T16:36:14.323644305-05:00","level":"INFO","msg":"Pausing system monitor"}
