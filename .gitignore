@@ -12,3 +12,4 @@ OvO-R1/
 *.csv
 *.csv
 train.jsonl
+/ProofAug
