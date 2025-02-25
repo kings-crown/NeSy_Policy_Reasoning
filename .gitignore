@@ -11,3 +11,4 @@ wandb/debug.log
 OvO-R1/
 *.csv
 *.csv
+train.jsonl
