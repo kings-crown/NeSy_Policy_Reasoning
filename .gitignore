@@ -13,3 +13,6 @@ OvO-R1/
 *.csv
 train.jsonl
 /ProofAug
+/lora_model
+/outputs
+Keys
