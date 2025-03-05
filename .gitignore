@@ -10,7 +10,7 @@
 *.log
 *.txt
 *.wandb
-*.jsonl
+*.json
 /Unused
 /wandb
 Keys
@@ -18,3 +18,9 @@ Keys
 /Python-3.12.0/.devcontainer
 /Python-3.12.0
 *.tgz
+/Python-3.11.0/build/lib.linux-x86_64-3.11
+*.m4
+/Python-3.11.0/build/scripts-3.11
+/Python-3.11.0
+train.jsonl
+train_SFT.jsonl
